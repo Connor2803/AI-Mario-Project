@@ -1,6 +1,6 @@
 # CITS3001 Mario Project
 
-Alex Hawking (23354512) & Connor Grayden (23349066)
+Alex Hawking (https://github.com/Alex-Hawking) & Connor Grayden
 
 
 ## Description
@@ -25,13 +25,13 @@ Follow these steps to get up and running:
 
 3. **Ensure Correct Environment Setup**
 
-    ├── DDQN
-    │ ├── DDQN_Model.pt
-    │ ├── DDQNtrain.pt
-    │ ├── DDQNrun.py
+    ├── DDQN  
+    │ ├── DDQN_Model.pt  
+    │ ├── DDQNtrain.pt  
+    │ ├── DDQNrun.py  
 
 
-4. **Run**\
+5. **Run**\
     To train the model:
     ```bash
     python DDQNtrain.py

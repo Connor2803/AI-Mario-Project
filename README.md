@@ -1,6 +1,6 @@
 # CITS3001 Mario Project
 
-Alex Hawking (23354512) & Connor Grayden (23349066)
+Alex Hawking (https://github.com/Alex-Hawking) & Connor Grayden
 
 
 ## Description

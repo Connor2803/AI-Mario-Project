@@ -9,7 +9,7 @@ This project investigates the performance of Deep RL models on the game Super Ma
 ## Installation and Usage
 To install this project, follow these steps (each model will have its own directory holding code, these steps need to be executed within the directories):
 
-## DDQN
+## DDQN 
 
 Follow these steps to get up and running:
 

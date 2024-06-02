@@ -4,7 +4,7 @@ Alex Hawking (https://github.com/Alex-Hawking) & Connor Grayden
 
 
 ## Description
-This project investigates the performance of Deep RL models on the game Super Mario Bros through the package gym-super-mario-bros. The two algorithms used were PPO and DDQN, so both options are available for training and testing.
+This project investigates the performance of Deep RL models on the game Super Mario Bros through the package gym-super-mario-bros. The two algorithms used were PPO (Alex) and DDQN (Connor), so both options are available for training and testing.
 
 ## Installation and Usage
 To install this project, follow these steps (each model will have its own directory holding code, these steps need to be executed within the directories):
